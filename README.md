@@ -4,7 +4,9 @@ When an item in the list is tapped the app should transition to a detail view wh
 provided by the Get tag endpoint.
 
 Resources
+
 Get tags endpoint
 - https://api.tronalddump.io/tag
+
 Get tag endpoint
 - https://api.tronalddump.io/tag/<tag_name>
